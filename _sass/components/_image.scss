@@ -17,6 +17,14 @@
 			display: block;
 		}
 
+		&.course-logo {
+			width: 10vw !important;
+		}
+
+		&.course-logo-big {
+			width: 20vw;
+		}
+
 		&.left,
 		&.right {
 			max-width: 40%;
